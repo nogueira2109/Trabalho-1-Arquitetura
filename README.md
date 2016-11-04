@@ -5,3 +5,5 @@ Todos os programa desenvolvidos para esse trabalho estão no diretório Programa
 Eles foram feitos em C++ e CUDA 7.5.
 
 Nele há um Makefile para a compilação desses programas, basta chamar make compila.
+
+Os logs de tempos são gravados no arquivo log.csv
